@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+.pxError {
+	FONT-SIZE:13px;
+	COLOR:red;
+	FONT_WEIGHT:bold;
+};
+.pxWarn {
+	FONT-SIZE:13px;
+	COLOR:blue;
+	FONT_WEIGHT:bold;
+};
+.container {
+height:100%;
+/*width: 100%;*/
+border: 1px solid green;
+position:fixed;
+}
+.hbody {
+margin:0;
+padding:0;
+}
+.btn {
+	width:100px;
+	height:30px;
+	FONT-SIZE:13px;
+	FONT_WEIGHT:bold;
+}
+.px13 {
+	FONT-SIZE:13px;
+	FONT_WEIGHT:bold;
+}
+.inputsty {
+	border: currentColor;
+	border-image: none;
+}
+.span {
+	FONT-SIZE:17px;
+	background:orange;
+}
